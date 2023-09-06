@@ -23,4 +23,4 @@
 
 ## autores 
 
-projeto copiado do bootstrap, porem ainda em andamento 
+projeto copiado do bootstrap, porem ainda em andamento
