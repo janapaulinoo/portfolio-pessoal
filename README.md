@@ -20,9 +20,9 @@ Com um catálogo bem extenso e cheio de novidades, toda semana um filme e série
 A nossa plataforma busca trazer diversos filme e séries, que muitas vezes temos que pagar ou ir ao cinema assistir e nós buscamos trazer para nosso telespectadores um conforto e lazer sem sair de casa e totalmente gratuito com uma qualidade ótima. 😉
 
 ## 🔧Funcionalidades
-📌 A aba de Ínico mostra os filmes/séries em destaques selecionados por categoria, e se já tiver cadastro em nossa plataforma mostra os que já assistiu ou a lista de favoritos, entre outras coisas.
-📌 A aba de Novidades mostra os filme pré lançados da semana ou se possui algum episódio ou temporada nova, também mostra o que chegará na próxima semana.
-📌 A aba Contato é um meio de comunicação entre nossa plataforma e o usúario, podendo falar conosco por e-mail, para dar alguma sugestão de filme ou série que deseja na platorma ou para fazer alguma reclamção.
+📌 A aba de Ínico mostra os filmes/séries em destaques selecionados por categoria, e se já tiver cadastro em nossa plataforma mostra os que já assistiu ou a lista de favoritos, entre outras coisas.  
+📌 A aba de Novidades mostra os filme pré lançados da semana ou se possui algum episódio ou temporada nova, também mostra o que chegará na próxima semana.  
+📌 A aba Contato é um meio de comunicação entre nossa plataforma e o usúario, podendo falar conosco por e-mail, para dar alguma sugestão de filme ou série que deseja na platorma ou para fazer alguma reclamção.  
 
 ### 💻Tecnologias utilizadas
 🔸Github
