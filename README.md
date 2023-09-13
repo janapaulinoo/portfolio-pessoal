@@ -38,3 +38,4 @@ A nossa plataforma busca trazer diversos filme e séries, que muitas vezes temos
 🤍Mafer
 🖤Jana
 💗Iris
+❤️bryan
